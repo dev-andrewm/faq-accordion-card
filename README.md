@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/dev-andrewm/faq-accordion-card)
-- Live Site URL: (https://dev-andrewm.github.io/Product_preview_card_component/)
+- Live Site URL: (https://dev-andrewm.github.io/faq-accordion-card/)
 
 ## My process
 
